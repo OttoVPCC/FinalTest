@@ -4,6 +4,7 @@ using namespace std;
 
 void main()
 {
+	std::cout << "Greetings, I am a calculator that will perfectly solve and addition problem you give me.\n";
 	int number1 = 0 , number2 = 0;
 	int sum;
 	cout << "Please enter your first number";
