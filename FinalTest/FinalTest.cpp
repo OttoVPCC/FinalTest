@@ -1,7 +1,5 @@
-//Test to see if GitHub is actually saving my changes
 #include <iostream>
 using namespace std;
-
 void main()
 {
 	std::cout << "Greetings, I am a calculator that will perfectly solve and addition problem you give me.\n";
@@ -15,6 +13,5 @@ void main()
 		// changing from addition to subtraction does not break this
 	cout << "The sum of " << number1 << " and " << number2 << " is: " << sum;
 }
-//Test to see if GitHub is actually saving my changes
 //Horray! I figured out how to put comments in my code, surely I will not abuse this feature.
-//this should just be for a branch
+//reminder, this should just be for a branch
